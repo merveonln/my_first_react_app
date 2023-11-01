@@ -1,3 +1,11 @@
+# Movies
+
+## Movies Page
+
+<img src="public/assets/movies.png">
+
+<img src="public/assets/movies_batman.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
